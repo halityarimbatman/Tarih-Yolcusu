@@ -153,7 +153,7 @@ Bu proje açık kaynaklıdır. Geliştirmek için "Fork" yapabilir, hataları "I
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-Imfografik
+Infografik
 
 ## 📊 Proje Özeti ve Yapısı
 
