@@ -1,4 +1,5 @@
 Tarih Yolcusu 🏺📜
+
 Tarih Yolcusu, oyuncuları Mezopotamya'nın gizemli topraklarına götüren, Sümer medeniyetini keşfederken eğiten ve yapay zeka destekli bir rehber eşliğinde tarihsel görevleri tamamlamalarını sağlayan 2D bir macera oyunudur.
 
 🌟 Özellikler
