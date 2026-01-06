@@ -117,13 +117,20 @@ python main.py
 🗺️ Oynanış İpuçları
 
 Başlangıç: Oyuna "Hub" bölgesinde başlarsınız. Sağ taraftaki portalı kullanarak Sümer şehrine gidin.
+
 Tekerlek Görevi: Nehir kenarındaki işçiyle konuşun. Ağaç keserek "Kütük" elde edin ve ona götürün.
+
 Yazı Görevi: İşçinin görevini bitirdikten sonra Ziggurat'a gidin. Rahip sizden tablet isteyecektir. Nehir kenarından "Islak Kil" bulun ve$$C$$
 tuşuyla tablet yapın.
+
 Final: Her iki görevi de tamamladığınızda Sümer şehrinin girişinde açılan yeni portaldan eve dönün.
+
 🤝 Katkıda Bulunma
+
 Bu proje açık kaynaklıdır. Geliştirmek için "Fork" yapabilir, hataları "Issues" kısmından bildirebilir veya "Pull Request" gönderebilirsiniz.
+
 📜 Lisans
+
 Bu proje eğitim amaçlı geliştirilmiştir.
-Geliştirici Notu: Tarihi yaşayarak öğrenmek en güzelidir. İyi eğlenceler!
+
 
