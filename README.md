@@ -73,8 +73,8 @@ Python 3.10 veya üzeri
 İnternet bağlantısı (Yapay zeka özellikleri için gereklidir)
 Adım 1: Projeyi Klonlayın
 Terminali veya Komut İstemi'ni açın ve aşağıdaki komutu yazın:
-git clone [https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu-Ilk-Uygarliklar.git](https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu-Ilk-Uygarliklar.git)
-cd Tarih-Yolcusu-Ilk-Uygarliklar
+git clone [https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu.git](https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu.git)
+cd Tarih-Yolcusu
 
 
 
