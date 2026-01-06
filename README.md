@@ -60,35 +60,18 @@ ask_ai(text): Arka planda Google Gemini API'ye bağlanma, model seçme, hata yö
 
 create_map(): Haritanın CSV veya görsel dosyalardan okunup oyun dünyasına yerleştirilmesi işlemi tek bir metot altında soyutlanmıştır.
 
-🎮 Kontroller
+## 🎮 Kontroller
 
-Tuş |İşlev
+| **Tuş** | **İşlev** |
+| :--- | :--- |
+| **W, A, S, D** veya **Ok Tuşları** | Karakteri hareket ettirir |
+| **SPACE (Boşluk)** | NPC'lerle konuş / Etkileşime gir |
+| **H** | Bilge Baykuş Huma'yı çağır (AI Sohbet) |
+| **F (Basılı Tut)** | Ağaç kes |
+| **C** | Eşya üret (Craft - Örn: Kil Tablet) |
+| **ENTER** | Sohbet penceresinde mesajı gönder |
+| **ESC** | Sohbet pencresini kapat |
 
-W, A, S, D veya Ok Tuşları | Karakteri hareket ettirir
-
-SPACE (Boşluk)
-
-NPC'lerle konuş / Etkileşime gir
-
-H
-
-Bilge Baykuş Huma'yı çağır (AI Sohbet)
-
-F (Basılı Tut)
-
-Ağaç kes
-
-C
-
-Eşya üret (Craft - Örn: Kil Tablet)
-
-ENTER
-
-Sohbet penceresinde mesajı gönder
-
-ESC
-
-Sohbet pencresini kapat
 🛠️ Kurulum Talimatları
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
