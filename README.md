@@ -62,13 +62,9 @@ create_map(): Haritanın CSV veya görsel dosyalardan okunup oyun dünyasına ye
 
 🎮 Kontroller
 
-Tuş
+Tuş |---|---|İşlev
 
-İşlev
-
-W, A, S, D veya Ok Tuşları
-
-Karakteri hareket ettirir
+W, A, S, D veya Ok Tuşları |---|---| Karakteri hareket ettirir
 
 SPACE (Boşluk)
 
@@ -93,7 +89,6 @@ Sohbet penceresinde mesajı gönder
 ESC
 
 Sohbet pencresini kapat
-
 🛠️ Kurulum Talimatları
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
