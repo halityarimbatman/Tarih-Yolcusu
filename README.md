@@ -1,4 +1,4 @@
-Tarih Yolcusu 🏺📜
+Tarih Yolcusu: İlk Uygarlıklar 🏺📜
 
 Tarih Yolcusu, oyuncuları Mezopotamya'nın gizemli topraklarına götüren, Sümer medeniyetini keşfederken eğiten ve yapay zeka destekli bir rehber eşliğinde tarihsel görevleri tamamlamalarını sağlayan 2D bir macera oyunudur.
 
@@ -97,29 +97,35 @@ Sohbet pencresini kapat
 🛠️ Kurulum Talimatları
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
-Gereksinimler
-Python 3.10 veya üzeri
-İnternet bağlantısı (Yapay zeka özellikleri için gereklidir)
-Adım 1: Projeyi Klonlayın
-Terminali veya Komut İstemi'ni açın ve aşağıdaki komutu yazın:
-git clone [https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu.git](https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu.git)
-cd Tarih-Yolcusu
 
+Gereksinimler
+
+Python 3.10 veya üzeri
+
+İnternet bağlantısı (Yapay zeka özellikleri için gereklidir)
+
+Adım 1: Projeyi Klonlayın
+
+Terminali veya Komut İstemi'ni açın ve aşağıdaki komutu yazın:
+
+git clone [https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu-Ilk-Uygarliklar.git](https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu-Ilk-Uygarliklar.git)
+cd Tarih-Yolcusu-Ilk-Uygarliklar
 
 
 Adım 2: Sanal Ortam Oluşturun (Önerilen)
 
 Kütüphanelerin sisteminize karışmaması için sanal ortam kurun:
+
 Windows için:
+
 python -m venv .venv
 .venv\Scripts\activate
 
 
-
 Mac/Linux için:
+
 python3 -m venv .venv
 source .venv/bin/activate
-
 
 
 Adım 3: Gerekli Kütüphaneleri Yükleyin
@@ -127,17 +133,20 @@ Adım 3: Gerekli Kütüphaneleri Yükleyin
 pip install -r requirements.txt
 
 
-
 Adım 4: API Anahtarı (Opsiyonel ama Önemli)
 
 Oyun, Google Gemini API kullanmaktadır. Oyunun içinde varsayılan bir anahtar bulunabilir ancak kendi anahtarınızı kullanmanız önerilir.
+
 Google AI Studio adresinden ücretsiz bir API anahtarı alın.
+
 isimsiz_oyun/code/ui.py dosyasını açın.
+
 self.api_key = "..." satırını kendi anahtarınızla değiştirin.
+
 Adım 5: Oyunu Başlatın
+
 cd isimsiz_oyun
 python main.py
-
 
 
 🗺️ Oynanış İpuçları
@@ -146,8 +155,7 @@ Başlangıç: Oyuna "Hub" bölgesinde başlarsınız. Sağ taraftaki portalı ku
 
 Tekerlek Görevi: Nehir kenarındaki işçiyle konuşun. Ağaç keserek "Kütük" elde edin ve ona götürün.
 
-Yazı Görevi: İşçinin görevini bitirdikten sonra Ziggurat'a gidin. Rahip sizden tablet isteyecektir. Nehir kenarından "Islak Kil" bulun ve$$C$$
-tuşuyla tablet yapın.
+Yazı Görevi: İşçinin görevini bitirdikten sonra Ziggurat'a gidin. Rahip sizden tablet isteyecektir. Nehir kenarından "Islak Kil" bulun ve [C] tuşuyla tablet yapın.
 
 Final: Her iki görevi de tamamladığınızda Sümer şehrinin girişinde açılan yeni portaldan eve dönün.
 
