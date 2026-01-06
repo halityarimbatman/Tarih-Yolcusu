@@ -153,4 +153,36 @@ Bu proje açık kaynaklıdır. Geliştirmek için "Fork" yapabilir, hataları "I
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
+Imfografik
+
+## 📊 Proje Özeti ve Yapısı
+
+```mermaid
+mindmap
+  root((Tarih Yolcusu))
+    (Teknolojiler)
+      ::icon(fa fa-code)
+      Python 3.10
+      Pygame Library
+      Google Gemini API
+      Git & GitHub
+    (Oyun Mekanikleri)
+      ::icon(fa fa-gamepad)
+      Keşif & Hareket
+      NPC Diyalogları
+      Crafting Sistemi
+      Ağaç Kesme
+    (Yazılım Mimarisi)
+      ::icon(fa fa-sitemap)
+      OOP Prensipleri
+      Sprite Gruplama
+      Kapsülleme
+      Y-Sort Kamera
+    (Eğitim İçeriği)
+      ::icon(fa fa-book)
+      Sümer Tarihi
+      Tekerleğin İcadı
+      Yazının Bulunuşu
+      Yapay Zeka Rehberliği
+
 
