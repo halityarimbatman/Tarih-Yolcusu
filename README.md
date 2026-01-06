@@ -3,6 +3,7 @@ Tarih Yolcusu 🏺📜
 Tarih Yolcusu, oyuncuları Mezopotamya'nın gizemli topraklarına götüren, Sümer medeniyetini keşfederken eğiten ve yapay zeka destekli bir rehber eşliğinde tarihsel görevleri tamamlamalarını sağlayan 2D bir macera oyunudur.
 
 🌟 Özellikler
+
 Yapay Zeka Destekli Rehber (Huma): Google Gemini API ile güçlendirilmiş bilge baykuş Huma, tarihle ilgili tüm sorularınızı yanıtlar ve size rehberlik eder.
 
 Eğitici Görevler: Tekerleğin icadına yardım edin, kil tabletler hazırlayarak yazının korunmasını sağlayın.
@@ -14,6 +15,7 @@ Canlı Pixel Art Dünyası: Hub (Mezopotamya Bozkırları), Sümer Şehri ve gö
 Dinamik Etkileşim: NPC'lerle konuşun, envanterinizi yönetin ve tarihe tanıklık edin.
 
 🏗️ Yazılım Mimarisi ve OOP Prensipleri
+
 Bu proje, Python ve Pygame kullanılarak Nesne Yönelimli Programlama (OOP) prensiplerine sıkı sıkıya bağlı kalınarak geliştirilmiştir. Kod tabanı, modülerlik ve sürdürülebilirlik gözetilerek tasarlanmıştır.
 
 1. Sınıflar ve Nesneler (Classes & Objects)
