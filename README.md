@@ -1,8 +1,8 @@
-Tarih Yolcusu: İlk Uygarlıklar 🏺📜
+## Tarih Yolcusu 🏺📜
 
 Tarih Yolcusu, oyuncuları Mezopotamya'nın gizemli topraklarına götüren, Sümer medeniyetini keşfederken eğiten ve yapay zeka destekli bir rehber eşliğinde tarihsel görevleri tamamlamalarını sağlayan 2D bir macera oyunudur.
 
-🌟 Özellikler
+## 🌟 Özellikler
 
 Yapay Zeka Destekli Rehber (Huma): Google Gemini API ile güçlendirilmiş bilge baykuş Huma, tarihle ilgili tüm sorularınızı yanıtlar ve size rehberlik eder.
 
@@ -14,7 +14,7 @@ Canlı Pixel Art Dünyası: Hub (Mezopotamya Bozkırları), Sümer Şehri ve gö
 
 Dinamik Etkileşim: NPC'lerle konuşun, envanterinizi yönetin ve tarihe tanıklık edin.
 
-🏗️ Yazılım Mimarisi ve OOP Prensipleri
+## 🏗️ Yazılım Mimarisi ve OOP Prensipleri
 
 Bu proje, Python ve Pygame kullanılarak Nesne Yönelimli Programlama (OOP) prensiplerine sıkı sıkıya bağlı kalınarak geliştirilmiştir. Kod tabanı, modülerlik ve sürdürülebilirlik gözetilerek tasarlanmıştır.
 
@@ -72,11 +72,11 @@ create_map(): Haritanın CSV veya görsel dosyalardan okunup oyun dünyasına ye
 | **ENTER** | Sohbet penceresinde mesajı gönder |
 | **ESC** | Sohbet pencresini kapat |
 
-🛠️ Kurulum Talimatları
+## 🛠️ Kurulum Talimatları
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
-Gereksinimler
+## Gereksinimler
 
 Python 3.10 veya üzeri
 
@@ -86,8 +86,10 @@ Adım 1: Projeyi Klonlayın
 
 Terminali veya Komut İstemi'ni açın ve aşağıdaki komutu yazın:
 
-git clone [https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu-Ilk-Uygarliklar.git](https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu-Ilk-Uygarliklar.git)
+```bash
+git clone [https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu.git](https://github.com/KULLANICI_ADINIZ/Tarih-Yolcusu.git)
 cd Tarih-Yolcusu-Ilk-Uygarliklar
+```
 
 
 Adım 2: Sanal Ortam Oluşturun (Önerilen)
@@ -96,20 +98,24 @@ Kütüphanelerin sisteminize karışmaması için sanal ortam kurun:
 
 Windows için:
 
+``` bash
 python -m venv .venv
 .venv\Scripts\activate
+```
 
 
 Mac/Linux için:
 
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
-
+```
 
 Adım 3: Gerekli Kütüphaneleri Yükleyin
 
+```bash
 pip install -r requirements.txt
-
+```
 
 Adım 4: API Anahtarı (Opsiyonel ama Önemli)
 
@@ -118,14 +124,16 @@ Oyun, Google Gemini API kullanmaktadır. Oyunun içinde varsayılan bir anahtar 
 Google AI Studio adresinden ücretsiz bir API anahtarı alın.
 
 isimsiz_oyun/code/ui.py dosyasını açın.
-
-self.api_key = "..." satırını kendi anahtarınızla değiştirin.
+```python
+self.api_key = "..."
+```
+satırını kendi anahtarınızla değiştirin.
 
 Adım 5: Oyunu Başlatın
-
+```bash
 cd isimsiz_oyun
 python main.py
-
+```
 
 🗺️ Oynanış İpuçları
 
